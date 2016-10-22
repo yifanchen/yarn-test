@@ -1,0 +1,12 @@
+{
+  "name": "George",
+  "version": "1.0.0",
+  "description": "Where is George",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/yifanchen/yarn-test.git",
+    "type": "git"
+  },
+  "author": "Yifan Chen",
+  "license": "MIT"
+}
